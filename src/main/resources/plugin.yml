@@ -1,0 +1,6 @@
+name: 'HubElytra'
+main: 'valmx.spigot.hubelytra.HubElytra'
+version: 1.0
+permissions:
+  hubelytra.allow:
+    default: op
